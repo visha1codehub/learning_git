@@ -1,0 +1,6 @@
+.gitignore
+git add .
+git commit -m "Initial commit"
+git status #just for check#
+git remote add origin SSH URL
+git push origin master
