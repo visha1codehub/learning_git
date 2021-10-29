@@ -7,6 +7,6 @@ sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.3-li
 sudo gdebi GitHubDesktop-linux-2.9.3-linux3.deb
 
 # UPDATE (2021-03-05): Thanks to PaoloRanzi81's comment, the updated code is as follows https://gist.github.com/PaoloRanzi81
-
+dfjfffbfjbngjbngjbngjbjgnjgbngjbngjnjgbngjbngjbngjbnbnjgn
 #sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/GitHubDesktop-linux-2.6.3-linux1.deb
 ### Uncomment below line if you have not installed gdebi-core before'''
